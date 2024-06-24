@@ -160,7 +160,7 @@ document.addEventListener('DOMContentLoaded', function () {
           }
         },
         y: {
-          //stacks  veritcal 
+          //stacks  veritcal on the data
           stacked: false,
           title: {
             display: true,
